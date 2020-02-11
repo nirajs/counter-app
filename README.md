@@ -1,7 +1,7 @@
 ### Start the program
 
 node start
-![alt text](https://github.com/nirajs/counter-app/tree/master/public/react.png "Sample screenshot")
+![alt text][(https://github.com/nirajs/counter-app/tree/master/public/react.png](https://github.com/nirajs/counter-app/blob/master/public/react.PNG) "Sample screenshot")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
