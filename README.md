@@ -1,3 +1,8 @@
+### Start the program
+
+node start
+![alt text](https://github.com/nirajs/counter-app/tree/master/public/react.png "Sample screenshot")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
